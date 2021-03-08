@@ -44,6 +44,15 @@ $stm->close();
 <button>
 <a href="cidades_index.php">Lista De Cidades</a><br>
 </button>
+<br>
+<button>
+<a href="register.php">Register</a><br>
+</button>
+<br>
+<button>
+<a href="login.php">Login</a><br>
+</button>
+
 </body>
 </html>
 
