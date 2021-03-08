@@ -34,11 +34,7 @@ $stm->close();
 ?>
 <br>
 <button>
-<a href="paises_create.php">Adicionar pais</a><br>
-</button>
-<br>
-<button>
-<a href="cidades_create.php">Adicionar cidade</a><br>
+<a href="paises_create.php">Adicionar Pais</a><br>
 </button>
 <br>
 <button>
