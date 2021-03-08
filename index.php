@@ -40,6 +40,10 @@ $stm->close();
 <button>
 <a href="cidades_create.php">Adicionar cidade</a><br>
 </button>
+<br>
+<button>
+<a href="cidades_index.php">Lista De Cidades</a><br>
+</button>
 </body>
 </html>
 

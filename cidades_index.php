@@ -40,6 +40,10 @@ $stm->close();
 <button>
 <a href="paises_create.php">Adicionar pais</a><br>
 </button>
+<br>
+<button>
+<a href="index.php">Lista De Paises</a><br>
+</button>
 </body>
 </html>
 
